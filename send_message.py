@@ -15,6 +15,6 @@ def send_message(url, message):
 
 message = "Hello world!"
 send_message(
-    "url here",
+    "https://discord.com/api/webhooks/1210626772010270780/y7ILzVd9h9bU3SHQKUQ_x5g20--WIO9dT_CtWrS2Q-OMTxZFNH7fwjZT1eQ_EVRT9jLm",
     message=message,
 )
